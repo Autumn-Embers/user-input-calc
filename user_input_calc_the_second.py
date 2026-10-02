@@ -28,7 +28,7 @@ while True:
     choice = input("Enter choice(1/2): ")
     if choice < '1':
         print("error please select a valid option.")
-    if choice > '1':
+    if choice > '2':
         print("error please select a valid option.")
     # check if choice is one of the four options
     if choice in ('1'):
